@@ -1,3 +1,10 @@
+Use following commands in the terminal to run this project
+
+1. npm install :- To install all dependencies
+2. nodemon app.js :- To run server
+3. npm start :- Runs the app in the development mode.
+   Open http://localhost:3000 to view it in your browser.
+
 The code and functionalities I provided in this project, it appears to cover the all requirements that mentioned in the assignment. Here's a summary of the functionalities covered by the code:
 
 1. Login and registration system in React and Node.js adn MongoDB.
